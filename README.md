@@ -1,1 +1,2 @@
-"# online-shop" 
+# online-shop
+Online shop writing in Java
